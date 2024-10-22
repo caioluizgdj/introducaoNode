@@ -1,0 +1,25 @@
+{
+  "name": "criacao-primeiro-servidor",
+  "version": "1.0.0",
+  "description": "criacao primeiro servidor",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js",
+    "test": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "a",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.7"
+  }
+}
